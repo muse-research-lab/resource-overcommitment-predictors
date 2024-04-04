@@ -28,6 +28,6 @@ The MIT License (MIT).
  
 ## Acknowledgements <br />
 This work is part of the grants FJC2021-047102-I, TED2021-132464B-I00, PID2022-142290OB-I00, funded by the European Union «NextGenerationEU»/PRTR, the ESF+ and MCIN/AEI/10.13039/501100011033. <br />  <br /> 
-<img src="docs/images/micin-financiadoUEnextgeneration-prtr-aei-1.png" width="1000"/>
+<img src="micin-financiadoUEnextgeneration-prtr-aei-1.png" width="1000"/>
 
 
