@@ -1,3 +1,6 @@
 [submodule "cluster-resource-forecast"]
 	path = cluster-resource-forecast
 	url = https://github.com/muse-research-lab/cluster-resource-forecast.git
+[submodule "beam-mysql-connector"]
+	path = beam-mysql-connector
+	url = https://github.com/muse-research-lab/beam-mysql-connector.git
