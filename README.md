@@ -17,11 +17,17 @@ The __Google Cluster Workload Traces__ is a public dataset that captures informa
 Google has open-sourced a simulator originally proposed in the paper __Take it to the Limit__. This simulator mimics Google’s production environment and allows the configuration of different task execution scenarios and the implementation of various predictors. The input of the simulator is the aforementioned dataset, while the output is the predicted resource usage time series.
 
 ## Repository Structure <br />
-
+* `beam-mysql-connector`: Extended version of beam-mysql-connector. The original repository can be found here: https://github.com/esakik/beam-mysql-connector.
+* `cluster-resource-forecast`: Extended version of the Overcommitment Simulator, as proposed the paper Take it to the Limit. The original repository can be found here: https://github.com/googleinterns/cluster-resource-forecast.
 * `EuroMLSys '24 Graphs.ipynb`: This notebook contains the code for creating the graphs that appear in the paper "Do Predictors for Resource Overcommitment Even Predict?".
+
+To clone this repository:
+
+git clone --recursive https://github.com/muse-research-lab/resource-overcommitment-predictors.git
 
 ## Paper Reference <br />
 Georgia Christofidi and Thaleia Dimitra Doudali. 2024. <br /><br /> __Do Predictors for Resource Overcommitment Even Predict?__ <br /><br />  In 4th Workshop on Machine Learning and Systems (EuroMLSys ’24), April 22, 2024, Athens, Greece. <br /> <br /> 
+https://doi.org/10.1145/3642970.3655838
 
 ## Licence <br />
 The MIT License (MIT).
